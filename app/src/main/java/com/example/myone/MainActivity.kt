@@ -38,7 +38,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         Text(
 
             text = "Hi, my name is $name!",
-            modifier = modifier.padding(25.dp)
+            modifier = modifier.padding(23.dp)
         )
     }
 }
